@@ -1,4 +1,4 @@
-package com.example.otherdemo.Tree;
+package com.example.otherdemo.tree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
